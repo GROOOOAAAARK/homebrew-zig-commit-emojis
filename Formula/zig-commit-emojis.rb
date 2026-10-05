@@ -1,8 +1,8 @@
 class ZigCommitEmojis < Formula
   desc "Get the best suited emoji for git commits"
   homepage "https://github.com/GROOOOAAAARK/zig-commit-emojis"
-  url "https://github.com/grooooaaaark/zig-commit-emojis/archive/refs/tags/0.4.0.tar.gz"
-  sha256 "d3b1c0a6d888a585cd05508aef04ae050d171eed14d02f35661a9cdaba9ca2b7"
+  url "https://github.com/grooooaaaark/zig-commit-emojis/archive/refs/tags/0.4.2.tar.gz"
+  sha256 "366213fc3332e801b80585ae8f2a398cae2284ab7b89e97273e47e554f8d9205"
   license "MIT"
 
   depends_on "zig@0.16" => :build
